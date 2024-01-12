@@ -4,7 +4,7 @@ An algorithm meticulously crafted to address a project for my university, compri
 ---
 
 ### To use the program you will need:
-1. A Linux ambience to run it
+1. A Linux environment to run it
 2. Have installed FreePascal Compiler
 3. Download or clone this repository into your computer
 
