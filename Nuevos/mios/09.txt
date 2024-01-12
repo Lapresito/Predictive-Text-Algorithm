@@ -1,0 +1,37 @@
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+inicializarPredictor:
+Predictor inicializado
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+entrenarPredictor:Ingrese archivo
+Predictor entrenado
+       1229: -(presento,1)
+       1250: -(va,1)
+       1252: -(hola,1)
+       1262: -(texto,1)-(loro,1)-(poco,1)
+       3856: -(cortito,1)
+       3892: -(un,2)-(muy,1)
+      11274: -(hola,1)
+      11319: -(te,1)-(un,1)
+      11437: -(como,2)-(me,1)-(soy,1)
+      11577: -(soy,1)
+      11640: -(repetitivo,1)
+      35289: -(soy,1)
+     307557: -(digo,1)
+     950013: -(hola,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+obtenerAlternativas:Ingrese palabra
+-(soy,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+obtenerAlternativas:Ingrese palabra
+-(como,2)-(soy,1)-(me,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]

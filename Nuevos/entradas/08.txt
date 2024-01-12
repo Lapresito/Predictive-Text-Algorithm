@@ -1,0 +1,10 @@
+5
+6
+entradas/archivos/pippi.txt
+8
+pippi
+8
+caballo
+8
+monedos
+0

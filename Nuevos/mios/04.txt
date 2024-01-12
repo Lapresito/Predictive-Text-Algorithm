@@ -1,0 +1,58 @@
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,2)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,3)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,3)-(es,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,3)-(es,1)-(un,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,3)-(es,1)-(un,1)-(perro,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,3)-(es,1)-(un,1)-(perro,1)-(y,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,3)-(es,1)-(un,1)-(perro,2)-(y,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,3)-(es,1)-(un,1)-(perro,2)-(y,1)-(come,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,3)-(es,1)-(un,1)-(perro,2)-(y,1)-(come,1)-(manzanas,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]
+agregarOcurrencia:Ingrese palabra
+-(pipa,3)-(es,1)-(un,2)-(perro,2)-(y,1)-(come,1)-(manzanas,1)
+Ingrese Opción
+[0=fin, 1=hash, 2=comparaPalabra, 3=mayorPalabraCant, 4=agregarOcurrencia]
+[5=inicializarPredictor, 6=entrenarPredictor, 7=insOrdAlternativas, 8=obtenerAlternativas]

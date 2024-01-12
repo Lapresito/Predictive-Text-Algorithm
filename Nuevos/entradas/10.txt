@@ -1,0 +1,8 @@
+5
+6
+entradas/archivos/arch1.txt
+8
+hola
+8
+a
+0

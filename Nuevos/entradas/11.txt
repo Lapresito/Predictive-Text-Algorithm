@@ -1,0 +1,6 @@
+5
+6
+entradas/archivos/pippi.txt
+6
+entradas/archivos/c1quijote.txt
+0
